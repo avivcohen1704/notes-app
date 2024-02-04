@@ -1,15 +1,15 @@
 
 # Notes-App
 
-##Description
+## Description
 The notes-app is a command-line application built with Node.js, allowing users to efficiently manage their personal notes. It supports operations such as adding, removing, listing, and reading notes, using a simple yet powerful command-line interface. This project demonstrates my capability to create practical, user-friendly applications with Node.js, emphasizing file operations and data management
 
-##Technologies Used
+## Technologies Used
 Programming Language: JavaScript
 Framework: Node.js
 Tools: Git for version control
 
-##Features
+## Features
 Add new notes with a title and body.
 Remove notes based on their title.
 List all the existing notes.
@@ -17,9 +17,9 @@ Read a specific note by providing its title.
 Data persistence using a JSON file to store notes.
 
 ## Getting Started
-###Prerequisites
+### Prerequisites
 Node.js installed on your machine.
-###Installation
+### Installation
 Clone the repository to your local machine:
 
 ```bash
@@ -27,7 +27,7 @@ git clone https://github.com/[YourGitHubUsername]/notes-app.git
 cd notes-app
 ```
 
-###Running the Project
+### Running the Project
 To add a note:
 
 ```bash
@@ -45,7 +45,7 @@ Reading a specific note:
 ```bash
 node app.js read --title="Your note title"
 ```
-##Contributing
+## Contributing
 Feel free to fork the project and submit pull requests with improvements or new features.
 
 
